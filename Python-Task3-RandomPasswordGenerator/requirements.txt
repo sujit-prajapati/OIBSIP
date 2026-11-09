@@ -1,0 +1,2 @@
+pyperclip
+pyperclip==1.11.0
